@@ -1,11 +1,11 @@
-# LAS Monitoring System
+# Student Performance Dashboard System
 
-A responsive, cloud-connected Learning Activity Sheets monitoring application built with React, Vite, and Supabase.
+A responsive, cloud-connected Student Performance Dashboard application built with React, Vite, and Supabase.
 
 ## Features
 
 - Teacher and individual student sign-in
-- Teacher-managed student and LAS activity records (create, edit, delete)
+- Teacher-managed student and student performance records (create, edit, delete)
 - Configurable item count and passing percentage per activity
 - Score entry with automatic percentage and PASS/FAIL calculation
 - Teacher dashboard with enrollment, activity, score, and performance summaries
