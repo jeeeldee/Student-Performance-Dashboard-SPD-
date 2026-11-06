@@ -1,4 +1,4 @@
--- LAS Monitoring System database schema
+-- Student Performance Dashboard System database schema
 -- Run this entire file in Supabase SQL Editor as project owner.
 
 create extension if not exists pgcrypto;
